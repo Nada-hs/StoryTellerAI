@@ -15,12 +15,15 @@ This project aims to develop an application that dynamically generates short sto
 •⁠  ⁠*Python*: The main programming language used to connect the components and perform story generation.
 •⁠  ⁠*GitHub*: For managing and sharing the project with the community.
 
-## The Colab urls:
-Full-Implementation: https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma
-Gradio Example: https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI?usp=sharing
-Simple Pipeline: https://colab.research.google.com/drive/11lv247qm64JmyjhDXi5QleFpGpeRxpAH#scrollTo=hXK6UurN76JM
-The Video url:
 ## Objectives:
 •⁠  ⁠Empower users to creatively generate short stories using AI.
 •⁠  ⁠Provide flexibility in selecting different models to experience diverse outputs.
 •⁠  ⁠Create an intuitive interface that simplifies the process for users of all backgrounds.
+
+## The Colab urls:
+Full-Implementation: https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma
+Gradio Example: https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI?usp=sharing
+Simple Pipeline: https://colab.research.google.com/drive/11lv247qm64JmyjhDXi5QleFpGpeRxpAH#scrollTo=hXK6UurN76JM
+The Video url: https://drive.google.com/file/d/16j6mBZO8qtoXAv80M6gN6BPpR31yO_k5/view?usp=sharing
+
+
