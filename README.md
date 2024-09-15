@@ -21,7 +21,7 @@ This project aims to develop an application that dynamically generates short sto
 •⁠  ⁠Create an intuitive interface that simplifies the process for users of all backgrounds.
 
 ## The Colab urls:
-Full-Implementation: https://colab.research.google.com/drive/1cBtYasT6wPGhXL4Mv4Mo4IvQtbMaRuma
+Full-Implementation: https://colab.research.google.com/drive/1LMbDV4g6S4I3ILYGwn4lnF8cW1ld-eMk#scrollTo=wLtt5SmFZxCH
 Gradio Example: https://colab.research.google.com/drive/1UwQmCD4oqrfE_wIOqoqyLDO4HWQpylRI?usp=sharing
 Simple Pipeline: https://colab.research.google.com/drive/11lv247qm64JmyjhDXi5QleFpGpeRxpAH#scrollTo=hXK6UurN76JM
 The Video url: https://drive.google.com/file/d/16j6mBZO8qtoXAv80M6gN6BPpR31yO_k5/view?usp=sharing
